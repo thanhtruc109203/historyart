@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 @import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&display=swap');
 * {
   box-sizing: border-box
 }
@@ -15,7 +16,7 @@ body {
   font-size: 16pt
 }
 .container {
-  width: 1260px;
+  width: 1140px;
   margin: auto
 }
 .img-100 {
