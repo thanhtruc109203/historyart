@@ -38,18 +38,16 @@ header {
 .icon a {
   color: #E7D7BF;
 }
-.mucluc{
-	margin-left: 25px;
-	font-family: 'Anton', sans-serif;
-
+.mucluc {
+  margin-left: 25px;
+  font-family: 'Anton', sans-serif;
 }
-.mucluc a{
-	text-decoration: none;
-color:#871916
+.mucluc a {
+  text-decoration: none;
+  color: #871916
 }
-.mucluc a:hover{
-	border-bottom: 4px solid #4f7253
-
+.mucluc a:hover {
+  border-bottom: 4px solid #4f7253
 }
 .banner {
   width: 100%;
@@ -87,7 +85,8 @@ color:#871916
 .green-border {
   border: 1px solid #4f7253;
   border-radius: 25px;
-  padding: 2px 12px
+  padding: 6px 16px;
+  margin-top: 10px
 }
 .list {
   text-transform: uppercase;
@@ -103,8 +102,8 @@ color:#871916
 .font-48 {
   font-size: 48pt
 }
-.font-16 {
-  font-size: 16pt
+.font-14 {
+  font-size: 14pt
 }
 .pl-15 {
   padding-left: 15px
@@ -119,44 +118,44 @@ color:#871916
   text-align: center;
   line-height: 5px
 }
-.title{}
-.frame{
+.title {}
+.frame {
   background-color: #871916;
   border: 1px solid #871916;
   border-radius: 23px;
   height: 45px;
-	text-align: center;
-	padding-top: 8px;
-		width:60%
-
+  text-align: center;
+  padding-top: 8px;
+  width: 60%
 }
-.frame a{
+.frame a {
   text-decoration: none;
 }
-.frame:hover{
+.frame:hover {
   background-color: #4f7253;
-	 border: 1px solid #4f7253;
+  border: 1px solid #4f7253;
 }
-.frame a:hover{
-	color:#e2b171
+.frame a:hover {
+  color: #e2b171
 }
-.frame1{
+.frame1 {
   background-color: #871916;
   border: 1px solid #871916;
   border-radius: 23px;
   height: 45px;
-	text-align: center;
-	padding-top: 8px;
+  text-align: center;
+  padding-top: 8px;
 }
-.frame1 a{
+.frame1 a {
   text-decoration: none;
 }
-.frame1:hover{
+.frame1:hover {
   background-color: #4f7253;
-	 border: 1px solid #4f7253;
+  border: 1px solid #4f7253;
 }
-.frame1 a:hover{
-	color:#e2b171}
+.frame1 a:hover {
+  color: #e2b171
+}
 .phongtrao {
   position: relative
 }
@@ -166,11 +165,12 @@ color:#871916
   margin-left: 15px;
   font-size: 12pt;
 }
-.title-pt a{
-text-decoration: none;
-color:#4f7253}
-.title-pt a:hover{
-			border-bottom: 2px solid #871916
+.title-pt a {
+  text-decoration: none;
+  color: #4f7253
+}
+.title-pt a:hover {
+  border-bottom: 2px solid #871916
 }
 .logo-cuoi {
   text-align: center;
@@ -187,21 +187,21 @@ color:#4f7253}
 .f-size-12 {
   font-size: 16px
 }
-.menu-duoi{
-	margin-left:0
+.menu-duoi {
+  margin-left: 0
 }
-.menu-duoi ul{
-	margin:0;
-	padding:0;
-	list-style: none;
+.menu-duoi ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
-.menu-duoi ul li a{
-	text-decoration: none;
-	color: #871916;
-	text-transform: uppercase;}
-
-.menu-duoi ul li a:hover{
-	color: #4f7253
+.menu-duoi ul li a {
+  text-decoration: none;
+  color: #871916;
+  text-transform: uppercase;
+}
+.menu-duoi ul li a:hover {
+  color: #4f7253
 }
 .form-control {
   padding: 8px;
@@ -213,12 +213,15 @@ color:#4f7253}
   font-family: 'Playfair Display', serif;
   color: #871916;
 }
-.tieude-moiviet a{ text-decoration: none;
-color:#871916}
-.tieude-moiviet a:hover{
-		border-bottom: 2px solid #4f7253
+.tieude-moiviet a {
+  text-decoration: none;
+  color: #871916
+}
+.tieude-moiviet a:hover {
+  border-bottom: 2px solid #4f7253
 }
 .canh-giua {
-justify-content: center;
-display: flex;
-flex-direction: column}
+  justify-content: center;
+  display: flex;
+  flex-direction: column
+}
