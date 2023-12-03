@@ -144,8 +144,6 @@ body {
 .btn-fill-primary {
   background-color: transparent;
   position: absolute;
-  margin-top: 10px;
-  margin-left: -30px;
   cursor: pointer;
   border: none;
   transition: all .5s
@@ -154,10 +152,20 @@ body {
   border: 2px solid darkred;
 }
 .btn-outline-primary {
-  background-image: url("../image/arrow.png");
   transition: all .5s
 }
 .btn-outline-primary:hover {
   background-color: #F87503;
   color: #333
+}
+.btn-fill-primary1 {
+  background-color: transparent;
+  margin-top: 0;
+  margin-left: -20px;
+  cursor: pointer;
+  border: none;
+  transition: all .5s;
+	  color: #E7D7BF;
+	font-size: 18px;
+  font-family: 'Playfair Display', serif;
 }

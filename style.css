@@ -30,7 +30,18 @@ header {
 .social {
   padding-top: 5px;
   color: #E7D7BF;
-  display: flex
+  display: flex;
+}
+.pr-15px{
+	padding-right: 15px
+}
+.social a{
+	text-decoration: none;
+  color: #E7D7BF;
+	margin-top: 15px
+}
+.social a:hover{
+	  border-bottom: 4px solid #4f7253
 }
 .icon {
   padding: 16px;
